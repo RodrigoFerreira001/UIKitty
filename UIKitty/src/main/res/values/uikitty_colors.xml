@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="uikitty_500">#9C27B0</color>
+
+    <color name="gray_500">#161616</color>
+    <color name="gray_400">#6A6C72</color>
+    <color name="gray_300">#B6B7BB</color>
+    <color name="gray_200">#DEDFE4</color>
+    <color name="gray_100">#F5F6FA</color>
+</resources>

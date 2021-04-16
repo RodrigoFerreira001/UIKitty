@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PageIndicator">
+        <attr name="currentPageIndicator" format="reference" />
+        <attr name="currentPageIndicatorColor" format="color" />
+        <attr name="unselectedPageIndicator" format="reference" />
+        <attr name="unselectedPageIndicatorColor" format="color" />
+        <attr name="indicatorsSpacing" format="dimension" />
+        <attr name="indicatorsGravity" format="enum">
+            <enum name="start" value="0" />
+            <enum name="center" value="1" />
+            <enum name="end" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,3 @@
+include ':UIKitty'
+include ':app'
+rootProject.name = "UIKitty"
